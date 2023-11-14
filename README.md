@@ -42,6 +42,9 @@
 - сборка Webpack
 - хостинг сайта на github pages;
 
+
 ### Ссылка на сайт:
 
-[Dell](https://krylatka2022.github.io/react-mesto-auth/)
+[Dell](https://krylatka2022.github.io/Dell/)
+
+![figma](https://github.com/Krylatka2022/Dell/blob/main/src/images/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.jpg)
