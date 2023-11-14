@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  /* margin-left: 50px;
+  margin-right: 50px; */
+  justify-content: space-around;
+  /* align-items: center; */
+  /* margin-top: 180px; */
+  /* margin-bottom: 40px;
+  margin-left: 260px;
+  margin-right: 260px; */
+  margin: 0 auto 40px;
+  position: relative;
+}

@@ -1,0 +1,8 @@
+.cover__aside-img {
+  background-image: url(../../../images/aside-cover.png);
+  background-repeat: no-repeat;
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 725px;
+}

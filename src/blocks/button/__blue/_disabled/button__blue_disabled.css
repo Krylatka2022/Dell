@@ -1,0 +1,6 @@
+.button__blue_disabled {
+  background-color: initial;
+  cursor: default;
+  pointer-events: none;
+  opacity: 10%;
+}

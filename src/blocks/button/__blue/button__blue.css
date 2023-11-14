@@ -1,0 +1,16 @@
+.button__blue {
+  width: 55px;
+  height: 55px;
+  border: none;
+  display: flex;
+  gap: 11px;
+  align-items: center;
+  background-color: transparent;
+  padding: 0;
+  cursor: pointer;
+}
+
+.button__blue:hover {
+  opacity: 65%;
+  transition: 1s;
+}

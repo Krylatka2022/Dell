@@ -1,0 +1,8 @@
+.advantages__contain {
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: column;
+  margin-top: 135px;
+  margin-left: -80px;
+  z-index: 1;
+}

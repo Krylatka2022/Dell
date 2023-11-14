@@ -1,0 +1,9 @@
+.button_next-button-cover {
+  position: absolute;
+  background-color: transparent;
+  border: none;
+  z-index: 2;
+  top: 65%;
+  left: 74%;
+  transform: translateY(-50%);
+}

@@ -1,0 +1,26 @@
+/* .header__menu {
+  display: flex;
+  /* margin-left: 260px; */
+/* margin: 0 auto;
+  align-items: center; */
+/* }  */
+
+.header__menu {
+  align-items: center;
+  display: flex;
+  /* flex-direction: column; */
+  flex-direction: row-reverse;
+  flex-grow: 1;
+  margin-left: 44px;
+  margin-right: 10px;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 768px) {
+  .header__menu {
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 15px;
+    align-items: flex-start;
+  }
+}

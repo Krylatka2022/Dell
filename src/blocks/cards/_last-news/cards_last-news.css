@@ -1,0 +1,7 @@
+.cards_last-news {
+  grid-template-columns: repeat(3, 482px);
+  grid-column-gap: 0;
+  row-gap: 0;
+  margin-left: 58px;
+  margin-right: 152px;
+}

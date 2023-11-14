@@ -1,0 +1,14 @@
+.cover__overlay-img {
+  width: 557px;
+  height: 555px;
+  /* position: absolute;
+  left: 534px;
+  top: 74px; */
+  background-image: url(../../../images/cover-main-img.png);
+  margin-left: 352px;
+  z-index: 1;
+  margin-top: 74px;
+  /* position: relative; */
+  background-repeat: no-repeat;
+  padding-right: 52px;
+}

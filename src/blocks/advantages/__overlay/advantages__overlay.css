@@ -1,0 +1,11 @@
+.advantages__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  background-image: url(../../../images/best-quality.png);
+  background-repeat: no-repeat;
+  width: 897px;
+  height: 346px;
+  margin-top: 164px;
+}

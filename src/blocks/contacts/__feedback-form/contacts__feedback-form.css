@@ -1,0 +1,8 @@
+.contacts__feedback-form {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  padding-bottom: 105px;
+}
+
+/* margin-bottom: 105px; */

@@ -1,0 +1,13 @@
+.cover__overlay {
+  position: absolute;
+  top: 0;
+  left: -124px;
+  z-index: -1;
+  background-image: url(../../../images/Dell.png);
+  width: 766.516px;
+  height: 201.6px;
+  margin-top: 97px;
+  margin-left: 0px;
+  padding: 0;
+  margin-right: 19px;
+}

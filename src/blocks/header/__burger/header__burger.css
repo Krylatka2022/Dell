@@ -1,0 +1,21 @@
+.header__burger {
+  background: #fff url(../../../images/icon__COLOR_icon-main.svg) 50% / 46px
+    no-repeat;
+  border: none;
+  display: none;
+  height: 46px;
+  margin-left: auto;
+  outline: none;
+  padding: 0;
+  transition: opacity 0.2s linear;
+  width: 46px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .header__burger {
+    display: block;
+    margin-left: 15px;
+    margin-top: 0;
+  }
+}

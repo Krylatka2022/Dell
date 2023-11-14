@@ -1,0 +1,10 @@
+.contacts__img {
+  width: 294px;
+  height: 590px;
+  position: absolute;
+  /* top: 145px;
+  left: 755px; */
+  z-index: 2;
+  top: 15%;
+  left: 40%;
+}

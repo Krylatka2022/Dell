@@ -1,0 +1,8 @@
+.cards_advantages {
+  grid-template-columns: repeat(4, 330px);
+  column-gap: 27px;
+  margin-bottom: 48px;
+  margin-top: 27px;
+  margin-left: 282px;
+  margin-right: 260px;
+}

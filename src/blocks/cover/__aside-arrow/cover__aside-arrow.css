@@ -1,0 +1,9 @@
+.cover__aside-arrow {
+  width: 104.5px;
+  height: 21px;
+  stroke-width: 1.5px;
+  color: #292d32;
+  /* margin-top: 82px; */
+  background-image: url(../../../images/arrow.png);
+  margin-left: 25px;
+}

@@ -1,0 +1,7 @@
+.cover__scroll {
+  display: flex;
+  flex-direction: column-reverse;
+  margin-bottom: 141px;
+  padding-left: 4px;
+  align-items: center;
+}

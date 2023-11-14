@@ -1,0 +1,20 @@
+.header__burger_close {
+  /* align-self: flex-end; */
+  background: transparent url(../../../../images/Close.svg) 50%/46px no-repeat;
+  border: none;
+  /* display: none; */
+  height: 46px;
+  /* margin: 0; */
+  outline: none;
+  padding: 0;
+  transition: opacity 0.2s linear;
+  width: 46px;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+  .header__burger_close {
+    display: flex;
+  }
+}

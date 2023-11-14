@@ -1,0 +1,19 @@
+.header__overlay {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  /* padding: 27px 27px 90px; */
+  margin-left: auto;
+  box-sizing: border-box;
+  background-color: #fff;
+  width: 100%;
+  /* min-height: 100vh; */
+  flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+  .header__overlay {
+    padding: 0;
+    height: 390px;
+  }
+}

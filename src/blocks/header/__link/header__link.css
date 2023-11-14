@@ -1,0 +1,16 @@
+.header__link {
+  color: #292d32;
+  text-align: right;
+  font-size: 15px;
+  line-height: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+  /* padding: 3px; */
+}
+
+.header__link:hover {
+  opacity: 65%;
+  background-color: #292d32;
+  color: #fff;
+  transition: 1s;
+}

@@ -1,0 +1,10 @@
+.footer__overlay {
+  background-image: url(../../../images/DELLmin.png);
+  background-repeat: no-repeat;
+  width: 515px;
+  height: 173px;
+  position: absolute;
+  top: 145px;
+  right: 0;
+  z-index: -1;
+}

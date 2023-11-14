@@ -1,0 +1,93 @@
+/* div,
+section,
+header,
+footer,
+main,
+p,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+img,
+a {
+  border: 1px solid blue;
+} */
+
+/* @media screen and (max-width: 768px) {
+  .header__search-contain {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+} */
+
+.body {
+  max-width: 1920px;
+  /* width: 1920px; */
+  min-width: 375px;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links {
+  position: absolute;
+  bottom: 34%;
+  left: 90%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+.nav-links ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.nav-links ul li {
+  display: inline-block;
+  /* Размер индикатора */
+  width: 10px;
+  height: 10px;
+  background-color: #cccccc;
+  border-radius: 50%;
+  /* Расстояние между индикаторами */
+  margin: 0 1px;
+  cursor: pointer;
+}
+.nav-links ul li:hover {
+  background-color: #ffff00;
+}
+.nav-links ul li.active {
+  background-color: #333333;
+  color: #ffffff;
+  outline-width: 7px;
+}
+.nav-links ul li.active:hover {
+  background-color: #484848;
+  color: #ffffff;
+}
+
+.cover .nav-links ul {
+  display: none;
+}
+
+section#cover {
+  display: none;
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+  margin-right: 22px;
+}
+
+.card-img {
+  width: 440px;
+  height: 376px;
+}

@@ -1,0 +1,8 @@
+.contacts__our-contacts-contain {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 45px;
+  margin-top: 29px;
+  margin-left: 83px;
+  gap: 30px;
+}

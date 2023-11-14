@@ -1,0 +1,11 @@
+.header__popup_visible {
+  display: flex;
+  position: fixed;
+  position: absolute;
+  width: 100%;
+  top: 119px;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 3;
+  min-height: 100vh;
+}

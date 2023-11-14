@@ -1,0 +1,10 @@
+.card__zero-subtitle {
+  color: #838383;
+  font-size: 18px;
+  line-height: 150%; /* 27px */
+  font-weight: 300;
+  margin-bottom: 50px;
+  margin-top: 29px;
+  text-align: left;
+  width: 372px;
+}

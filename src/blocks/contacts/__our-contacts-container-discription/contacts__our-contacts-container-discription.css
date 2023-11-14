@@ -1,0 +1,5 @@
+.contacts__our-contacts-container-discription {
+  display: flex;
+  flex-direction: column;
+  margin-left: 17px;
+}

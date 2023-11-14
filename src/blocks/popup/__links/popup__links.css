@@ -1,0 +1,5 @@
+.popup__links {
+  flex-direction: column;
+  gap: 40px;
+  padding: 0;
+}

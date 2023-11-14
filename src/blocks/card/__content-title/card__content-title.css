@@ -1,0 +1,9 @@
+.card__content-title {
+  color: #292d32;
+  font-size: 25px;
+  font-weight: 100;
+  line-height: 150%; /* 37.5px */
+  position: absolute;
+  top: 50px;
+  left: 28px;
+}

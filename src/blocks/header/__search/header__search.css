@@ -1,0 +1,11 @@
+.header__search {
+  width: 18.4px;
+  height: 18.4px;
+  margin: auto 8px;
+}
+
+@media screen and (max-width: 768px) {
+  .header__search {
+    margin: auto 31px auto 68px;
+  }
+}

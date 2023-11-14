@@ -1,0 +1,7 @@
+.footer__menu {
+  display: flex;
+  /* justify-content: space-evenly; */
+  align-items: flex-start;
+  /* margin-bottom: 36px; */
+  margin: 0 auto 36px;
+}

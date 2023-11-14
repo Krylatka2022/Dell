@@ -1,0 +1,11 @@
+.contacts__overlay-img {
+  background-image: url(../../../images/our-contacts.png);
+  background-repeat: no-repeat;
+  width: 1635px;
+  height: 471.818px;
+  position: absolute;
+  top: 540px;
+  left: 9px;
+  z-index: -1;
+  /* margin-top: 200px; */
+}

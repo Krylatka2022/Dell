@@ -1,0 +1,7 @@
+.popup__link {
+  text-transform: none;
+  color: #000;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 150%; /* 30px */
+}

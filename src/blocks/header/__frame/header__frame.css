@@ -1,0 +1,10 @@
+.header__frame {
+  color: transparent;
+  width: 49px;
+}
+
+@media screen and (max-width: 768px) {
+  .header__frame {
+    width: 46px;
+  }
+}

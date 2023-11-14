@@ -1,0 +1,22 @@
+.contacts__feedback-input_textarea {
+  border-radius: 8px;
+  resize: none;
+  overflow: hidden;
+  box-sizing: border-box;
+  height: 100%;
+  min-height: 40px;
+  /* width: 434px; */
+  /* margin-bottom: 25px; */
+  display: flex;
+  padding: 0 0 33px 0;
+}
+
+/* .contacts__feedback-input_textarea {
+  border-radius: 8px;
+  resize: none;
+  overflow: hidden;
+  box-sizing: border-box;
+  height: 100%;
+  min-height: 40px;
+  /* width: 434px; */
+/* margin-bottom: 25px; */

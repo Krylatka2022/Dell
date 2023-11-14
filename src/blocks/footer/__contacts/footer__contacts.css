@@ -1,0 +1,9 @@
+.footer__contacts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 33px;
+  width: 1400px;
+  margin: 0 auto;
+}

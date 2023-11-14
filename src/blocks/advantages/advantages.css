@@ -1,0 +1,9 @@
+.advantages {
+  display: flex;
+  background-color: #f2f2f2;
+  justify-content: space-between;
+  flex-direction: column;
+  /* margin-top: 185px; */
+  margin-bottom: 120px;
+  flex-direction: column;
+}
